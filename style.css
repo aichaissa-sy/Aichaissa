@@ -123,5 +123,11 @@ input,textarea{
     justify-content: space-around;
     align-items: center;
 }
+@media screen  and(max-width: 760px){
+    .conteneur{
+        width: 100%;
+    }
+
+}
 
 
